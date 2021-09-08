@@ -1,6 +1,6 @@
 "# e-commerce" 
 
-E-commerce System in PHP MySQL with Source Code.Admin Section,Member Area & Front End
+Tree structure|multi Level|multi node/endless parent child relation of category for ecommerce system
 ======================================================================================
 
 In this  tutorial I am going to discuss about E-commerce System in PHP MySQL with Source Code.
@@ -19,7 +19,7 @@ Set database credential in common/config.php
 and folder path (if localhost) in template/header.php 
 
 
-Youtube Tutorial : https://youtu.be/HPm-7UUGqtE
+Youtube Tutorial : https://youtu.be/YQiEQYfy-s8
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
