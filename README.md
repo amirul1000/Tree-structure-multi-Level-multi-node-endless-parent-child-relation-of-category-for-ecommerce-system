@@ -19,9 +19,8 @@ Set database credential in common/config.php
 and folder path (if localhost) in template/header.php 
 
 
-Youtube Tutorial : https://youtu.be/YQiEQYfy-s8
+Youtube Tutorial : https://youtu.be/uFaeeGfMnE4
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
